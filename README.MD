@@ -1,1 +1,1 @@
-userd as my blog.
+Used as my blog.
