@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-22T12:23:34.816Z</updated>
+  <updated>2015-10-21T08:31:41.561Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,21 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2015/10/22/about/"/>
-    <id>http://yoursite.com/2015/10/22/about/</id>
-    <published>2015-10-22T12:22:13.000Z</published>
-    <updated>2015-10-22T12:23:34.816Z</updated>
-    <content type="html"><![CDATA[<p>我就是我，是不一样的烟火</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>我就是我，是不一样的烟火</p>
-]]>
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[test]]></title>
