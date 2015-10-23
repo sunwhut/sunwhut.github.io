@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://sunwhut.com/"/>
-  <updated>2015-10-21T08:31:41.561Z</updated>
+  <updated>2015-10-23T14:57:05.226Z</updated>
   <id>http://sunwhut.com/</id>
   
   <author>
@@ -19,10 +19,12 @@
     <link href="http://sunwhut.com/2015/10/21/test/"/>
     <id>http://sunwhut.com/2015/10/21/test/</id>
     <published>2015-10-21T08:30:47.000Z</published>
-    <updated>2015-10-21T08:31:41.561Z</updated>
-    <content type="html"><![CDATA[<h2 id="Hello_World!">Hello World!</h2>]]></content>
+    <updated>2015-10-23T14:57:05.226Z</updated>
+    <content type="html"><![CDATA[<h2 id="Hello_World!">Hello World!</h2><p>欢迎来到我的世界~</p>
+]]></content>
     <summary type="html">
-    <![CDATA[<h2 id="Hello_World!">Hello World!</h2>]]>
+    <![CDATA[<h2 id="Hello_World!">Hello World!</h2><p>欢迎来到我的世界~</p>
+]]>
     </summary>
     
       <category term="example" scheme="http://sunwhut.com/tags/example/"/>
