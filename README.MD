@@ -1,1 +1,1 @@
-Used as my blog.
+本仓库是用来托管我的个人博客的，如果你对我的博客感兴趣，欢迎访问[http://sunwhut.com](http://sunwhut.com)
